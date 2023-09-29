@@ -8,4 +8,4 @@ If you want decent privacy (the info doesn't leave this server), the only way to
 
 ## License
 
-This was mostly rewritten using [Friend Camp](https://friend.camp/about]'s Privacy Policy as a reference, or, in the case of the final bit, literally just copied verbaitim. As they have licensed it Creative Commons Zero, the contents of both their and our policies are in the public domain.
+This was mostly rewritten using [Friend Camp](https://friend.camp/about)'s Privacy Policy as a reference, or, in the case of the final bit, literally just copied verbaitim. As they have licensed it Creative Commons Zero, the contents of both their and our policies are in the public domain.
